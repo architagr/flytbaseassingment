@@ -1,0 +1,33 @@
+.container {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    border: 2px solid red;
+}
+
+.btn {
+    padding: 0 6px 0 6px;
+    margin: 6px 8px 6px 8px;
+    min-width: 88px;
+    border-radius: 3px;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: none;
+    outline: none;
+}
+
+.btn-primary {
+    background-color: #337ab7;
+    color: white;
+}
+
+.add-btn {
+    line-height: 2.6rem;
+    min-width: 0;
+    width: 3.6rem;
+    height: 3.6rem;
+    border-radius: 50%;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+}
